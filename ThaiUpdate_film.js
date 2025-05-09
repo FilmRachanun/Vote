@@ -6,6 +6,8 @@
 // @author       方
 // @match        https://www.thaiupdate.info/the-best-glamorous-star-final/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=thaiupdate.info
+// @updateURL    https://github.com/FilmRachanun/Vote/blob/main/ThaiUpdate_film.js
+// @downloadURL  https://github.com/FilmRachanun/Vote/blob/main/ThaiUpdate_film.js
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
